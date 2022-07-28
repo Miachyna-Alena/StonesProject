@@ -1,2 +1,5 @@
-package by.itstep.miachyna.examtask.model.enums;public class SemiPreciousStoneType {
+package by.itstep.miachyna.examtask.model.enums;
+
+public enum SemiPreciousStoneType {
+    AGATE, AMBER, AMETHYST, GARNET, OPAL, TOPAZ, TURQUOISE
 }

@@ -1,14 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ffdc39e1-6c7c-437b-bad6-c81f546552cd" name="Changes" comment="" />
+    <list default="true" id="ffdc39e1-6c7c-437b-bad6-c81f546552cd" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StonesProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/StonesProject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/itstep/miachyna/examtask/controller/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/itstep/miachyna/examtask/controller/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/itstep/miachyna/examtask/model/entity/Chain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/itstep/miachyna/examtask/model/entity/Chain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/itstep/miachyna/examtask/model/entity/Jeweler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/itstep/miachyna/examtask/model/entity/Jeweler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/itstep/miachyna/examtask/model/entity/Necklace.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/itstep/miachyna/examtask/model/entity/Necklace.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/itstep/miachyna/examtask/model/entity/PreciousStone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/itstep/miachyna/examtask/model/entity/PreciousStone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/itstep/miachyna/examtask/model/entity/SemiPreciousStone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/itstep/miachyna/examtask/model/entity/SemiPreciousStone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/itstep/miachyna/examtask/model/entity/Stone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/itstep/miachyna/examtask/model/entity/Stone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/itstep/miachyna/examtask/model/enums/Color.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/itstep/miachyna/examtask/model/enums/Color.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/itstep/miachyna/examtask/model/enums/Fineness.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/itstep/miachyna/examtask/model/enums/Fineness.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/itstep/miachyna/examtask/model/enums/Material.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/itstep/miachyna/examtask/model/enums/Material.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/itstep/miachyna/examtask/model/enums/PreciousStoneType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/itstep/miachyna/examtask/model/enums/PreciousStoneType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/itstep/miachyna/examtask/model/enums/SemiPreciousStoneType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/itstep/miachyna/examtask/model/enums/SemiPreciousStoneType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/itstep/miachyna/examtask/model/logic/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/itstep/miachyna/examtask/model/logic/Manager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/itstep/miachyna/examtask/model/logic/Searcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/itstep/miachyna/examtask/model/logic/Searcher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/itstep/miachyna/examtask/model/logic/Sorter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/itstep/miachyna/examtask/model/logic/Sorter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/itstep/miachyna/examtask/util/ChainKnittingMachine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/itstep/miachyna/examtask/util/ChainKnittingMachine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/itstep/miachyna/examtask/util/ExpertGemologist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/itstep/miachyna/examtask/util/ExpertGemologist.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/itstep/miachyna/examtask/view/Printer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/itstep/miachyna/examtask/view/Printer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/by/itstep/miachyna/examtask/model/logic/ManagerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/by/itstep/miachyna/examtask/model/logic/ManagerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/by/itstep/miachyna/examtask/model/logic/SearcherTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/by/itstep/miachyna/examtask/model/logic/SearcherTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/by/itstep/miachyna/examtask/model/logic/SorterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/by/itstep/miachyna/examtask/model/logic/SorterTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2CZLuCqnfk0y6LYRDs0MjRFm2dN" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -19,9 +53,68 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "D:/Alena/Java/junit",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
 }]]></component>
+  <component name="RunManager" selected="JUnit.SorterTest">
+    <configuration name="ManagerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="StonesProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.itstep.miachyna.examtask.model.logic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="by.itstep.miachyna.examtask.model.logic" />
+      <option name="MAIN_CLASS_NAME" value="by.itstep.miachyna.examtask.model.logic.ManagerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearcherTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="StonesProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.itstep.miachyna.examtask.model.logic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="by.itstep.miachyna.examtask.model.logic" />
+      <option name="MAIN_CLASS_NAME" value="by.itstep.miachyna.examtask.model.logic.SearcherTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SorterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="StonesProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.itstep.miachyna.examtask.model.logic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="by.itstep.miachyna.examtask.model.logic" />
+      <option name="MAIN_CLASS_NAME" value="by.itstep.miachyna.examtask.model.logic.SorterTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SorterTest" />
+        <item itemvalue="JUnit.SearcherTest" />
+        <item itemvalue="JUnit.ManagerTest" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -32,5 +125,16 @@
       <updated>1659005400296</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

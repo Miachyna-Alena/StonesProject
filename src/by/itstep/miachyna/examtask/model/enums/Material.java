@@ -1,2 +1,5 @@
-package by.itstep.miachyna.examtask.model.enums;public class Material {
+package by.itstep.miachyna.examtask.model.enums;
+
+public enum Material {
+    GOLD, PLATINUM, SILVER
 }
